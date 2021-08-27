@@ -3,3 +3,7 @@ a.Komunikasi Daring Sinkron
  - Line
 b.Komunikasi Daring Asinkron
  - Email
+c.Github
+ - Mrmbuat akun
+ - Membuat repository
+d.Git
